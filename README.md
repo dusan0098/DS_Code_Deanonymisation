@@ -26,4 +26,11 @@ If you wish to run the commented cells of the notebook that sample the datasets,
 
 example location of file: data/gcj2009.csv/gcj2009.csv
 
-\
+## Acknowledgment
+
+This work was based ideas presented in the paper "[De-anonymizing Programmersvia Code Stylometry](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf)"
+
+Feature extraction was based on the code by 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
